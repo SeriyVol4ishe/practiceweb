@@ -1,0 +1,22 @@
+﻿ml version="1.0"?>
+<users>
+	<user>
+		<email>jperez001@ikasle.ehu.es</email>
+		<name>Juan</name>
+		<phone>634232323</phone>
+	</user>
+	<user>
+		<email>lalkorta002@ikasle.ehu.es</email>
+		<name>Luis</name>
+		<phone>634232324</phone>
+	</user>
+	<user>
+		<email>jsantos001@ikasle.ehu.es</email>
+		<name>Jos&#xE9;</name>
+		<phone>634232325</phone>
+	</user>
+	<user>
+		<email>xalonso001@ikasle.ehu.es</email>
+		<name>Xabier</name>
+		<phone>696756463</phone>
+	</user>

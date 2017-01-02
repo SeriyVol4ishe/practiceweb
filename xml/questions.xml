@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<questions>
+	<question complexity="2" subject="Web">
+		<questionText>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</questionText>
+		<correctAnswer>
+			<value>
+				FORM
+			</value>
+		</correctAnswer>
+	</question>
+		<question complexity="4" subject="Internet">
+		<questionText>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</questionText>
+		<correctAnswer>
+			<value>
+				TCP/IP
+			</value>
+		</correctAnswer>
+	</question>
+
